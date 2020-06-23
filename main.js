@@ -117,7 +117,7 @@ app.on('ready', function()  {
 // Auto updates - Option 2 - More control
 //
 // For details about these events, see the Wiki:
-// https://github.com/electron-userland/electron-builder/wiki/Auto-Update#events
+// https://www.electronjs.org/docs/api/auto-updater#events
 //
 // The app doesn't need to listen to any events except `update-downloaded`
 //
